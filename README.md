@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I'm SamZua!
+<div id="header" align="center">
+<img src="https://c.tenor.com/8kgu0KBEZCoAAAAd/chuuya-nakahara-chuuya.gif" width="100"/>
+</div>
+### Bad Developer • Bad Problem Solver • Never Learning
 
-<!--
-**SamuelHZhuang/SamuelHZhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I do  projects involving C++,  web development, and other stuff.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Use 
+**Languages:**  
+C++ • JavaScript • HTML/CSS  
+
+**Tools / Platforms:**  
+ VS Code  
+
+**Interests:**  
+Game Dev • Web Dev • Simulations 
+
+---
+
+
+## 🔧 What im working on 
+
+-Nothing really 
+
+---
+
+## 🌱  Goals
+--Hopefully improve!!
+
+## 📫 Contact
+
+**Email:** samuelzyay@gmail.com 
+**Discord:** sammythebammy  
+**GitHub:** https://github.com/YOUR_USERNAME
+
+---
+
